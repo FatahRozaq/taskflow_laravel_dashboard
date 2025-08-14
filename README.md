@@ -1,5 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+Nama : Muhamad Fatah Rozaq
+Email : fatah.rozaq20@gmail.com
+
 Link Skema Database : https://drive.google.com/file/d/1iE1_oG555ZVk9XGr3_NP1rrsXemK9XFX/view?usp=sharing
 
 ## Instalasi Proyek
